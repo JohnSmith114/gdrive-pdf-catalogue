@@ -1,0 +1,5 @@
+#Ignoring anything but the catalogue itself
+.txt
+.json
+.pyc
+.pdf
